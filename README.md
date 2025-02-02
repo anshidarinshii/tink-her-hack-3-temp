@@ -1,23 +1,24 @@
-# [Project Name] 🎯
+Doctrace:where lost meet found 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: 404 not found
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Anshida Rinshi - MEC Thrikkakara
+- Member 2:Chandra S -MEC Thrikkakara
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+The  DocTrace  Project is a specialised website that allows finders to post pertinent papers or information in order to help people retrieve misplaced belongings. Using sophisticated filters like date, category, or location, users may effectively search for their misplaced belongings, guaranteeing a smooth and well-organised retrieval process.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+One common yet serious problem that people encounter is the loss of crucial documents, such as identification cards, certifications, and legal documents. The absence of a centralised and effective lost-and-found system leads to serious financial hardships, security threats, and inconveniences. 
+
+Conventional techniques, including posting on social media, visiting several locations, or physically posting bulletin boards, are frequently time-consuming and unproductive. Furthermore, there is no organised method for recovering misplaced documents and returning them to their proper owners.
 
 ### The Solution
 [How are you solving it? Keep it fun!]
