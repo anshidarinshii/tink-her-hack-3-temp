@@ -129,6 +129,11 @@ https://github.com/anshidarinshii/tink-her-hack-3-temp/blob/e9838f48e996d47f5fca
 The signup page of Doctrace features a clean and user-friendly interface, allowing users to register quickly. It includes fields for name, email, password, and an option for secure authentication. The design ensures a seamless onboarding experience, guiding both finders and losers to access the platform efficiently.
 
 HOME PAGE:
+https://github.com/anshidarinshii/tink-her-hack-3-temp/blob/e21d17e433d48e9a3efd3429a1c2465c5d33873b/home.jpeg
+The Doctrace Home Page provides a simple and user-friendly interface for finding and reporting lost documents. Users can search with filters, upload found documents, and get real-time updates effortlessly. 
+
+LIST PAGE :
+
 
 
 
