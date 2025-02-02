@@ -31,11 +31,9 @@ Tracking and notifications keep users informed.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Languages used:React,Javascript,html
-- Frameworks used:
+- Languages used:python
+- Frameworks used:flask bcript for hashpasswords
   
-
-
 
 ### Implementation
 1.PROJECT SETUP
@@ -52,8 +50,8 @@ For Software:
  -Create RESTful APIs with Node.js +Express.js
  
 4.DATABASE SETUP
- -Design MongoDB schema
- -Set up MongoDB database
+ -Design SQLlite schema
+ -Set up SQLlite database
 
 5.API TESTING WITH INSOMNIA
  -Test API endpoints
@@ -75,13 +73,14 @@ For Software:
 
 For Software:
 # Installation
-1.Clone the Repository:
+Clone the Repository:
 
 git clone https://github.com/your-username/document-tracer-app.git
 
 cd document-tracer-app
 
-2.Install dependencies:
+Install dependencies:
+
 i)Backend:
 
 cd backend
@@ -93,21 +92,12 @@ ii)Frontend:
 cd ../frontend
 
 npm install
-
-3.Set up environment variables:
-
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/document-tracer
-
-
 
 
 # Run
-4.Start MongoDB:
 
-Run MongoDB locally or use a cloud service like MongoDB Atlas.
 
-5.Run the app:
+Run the app:
 
 i)Backend:
 
@@ -123,7 +113,7 @@ cd ../frontend
 
 npm start
 
-6.Access the app:
+Access the app:
 
 Frontend: http://localhost:3000
 Backend: http://localhost:5000
@@ -134,9 +124,13 @@ Backend: http://localhost:5000
 For Software:
 
 # Screenshots (Add at least 3)
+SIGN UP PAGE:
+https://github.com/anshidarinshii/tink-her-hack-3-temp/blob/e9838f48e996d47f5fca7e5c1db57bf946749051/signup.jpeg
+The signup page of Doctrace features a clean and user-friendly interface, allowing users to register quickly. It includes fields for name, email, password, and an option for secure authentication. The design ensures a seamless onboarding experience, guiding both finders and losers to access the platform efficiently.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+HOME PAGE:
+
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
