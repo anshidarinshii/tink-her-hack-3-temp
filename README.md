@@ -132,21 +132,15 @@ HOME PAGE:
 https://github.com/anshidarinshii/tink-her-hack-3-temp/blob/e21d17e433d48e9a3efd3429a1c2465c5d33873b/home.jpeg
 The Doctrace Home Page provides a simple and user-friendly interface for finding and reporting lost documents. Users can search with filters, upload found documents, and get real-time updates effortlessly. 
 
-LIST PAGE :
-
-
-
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+LOST DETAILS PAGE :
+https://github.com/anshidarinshii/tink-her-hack-3-temp/blob/99e13fe476434ed4ebc6209ac3f859906c39b9a7/list.jpeg
 
 
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
 
 
 
